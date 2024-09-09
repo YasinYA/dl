@@ -1,0 +1,6 @@
+export * from './Header.jsx'
+export * from './Nav.jsx'
+export * from './AboutSection.jsx'
+export * from './Services.jsx'
+export * from './Tech.jsx'
+export * from './Footer.jsx'
